@@ -1,0 +1,108 @@
+body {
+	background-color: red;
+}
+
+.container {
+	width: 100%;
+	text-align: center;
+	background-color: blue;
+	color: white;
+	margin-bottom: 20px;
+}
+
+#questions {
+	font-family: 'IM Fell DW Pica', serif;
+	letter-spacing: 2px;
+	color: white;
+	background: red;
+	font-size: 25px;
+	text-align: center;
+	margin: 50px 30px 30px 30px;
+}
+
+#q1 {
+	margin: 20px;
+}
+
+#q2 {
+	margin: 20px;
+}
+
+#q3 {
+	margin: 20px;
+}
+
+#q4 {
+	margin: 20px;
+}
+
+#q5 {
+	margin: 20px;
+}
+
+#box img {
+	width: 200px;
+	float: auto;
+
+}
+
+button {
+	margin: 10px;
+	display: inline-block;
+	background-color: blue;
+	border-radius: 10px;
+	font-size: 15px;
+	font-family: 'Open Sans Condensed', sans-serif;;
+	color: white;
+}
+
+button img {
+	width: 200px;
+	height: 150px;
+}
+
+h1 {
+	font-size: 70px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding: 20px;
+}
+
+#ans1 {
+	font-family: arial;
+	margin: 30px;
+	line-height: 30px;
+	font-size: 20px;
+	color: blue;
+}
+
+#ans2 {
+	font-family: arial;
+	margin: 30px;
+	line-height: 30px;
+	font-size: 20px;
+	color: blue;
+}
+
+#ans3 {
+	font-family: arial;
+	margin: 30px;
+	line-height: 30px;
+	font-size: 20px;
+	color: blue;
+}
+
+#ans4 {
+	font-family: arial;
+	margin: 30px;
+	line-height: 30px;
+	font-size: 20px;
+	color: blue;
+}
+
+#ans5 {
+	font-family: arial;
+	margin: 30px;
+	line-height: 30px;
+	font-size: 20px;
+	color: blue;
+}
